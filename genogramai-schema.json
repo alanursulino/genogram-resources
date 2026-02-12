@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "GenogramAI",
+  "url": "https://genogramai.com",
+  "description": "AI-powered genogram maker for therapists, social workers, genetic counselors, and students. Create professional family diagrams from text descriptions, images, or data files.",
+  "applicationCategory": "HealthApplication",
+  "operatingSystem": "Web, Windows, macOS, iOS, Android",
+  "offers": [
+    {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "description": "Free - Up to 2 projects"
+    },
+    {
+      "@type": "Offer", 
+      "price": "12",
+      "priceCurrency": "USD",
+      "billingPeriod": "Monthly",
+      "description": "Professional - Up to 50 projects"
+    },
+    {
+      "@type": "Offer",
+      "price": "29",
+      "priceCurrency": "USD", 
+      "billingPeriod": "Monthly",
+      "description": "Unlimited - Desktop apps + offline storage"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "127"
+  },
+  "featureList": [
+    "AI genogram generation from text",
+    "48 relationship types",
+    "McGoldrick standard notation",
+    "7 clinical view modes",
+    "Medical history tracking",
+    "AES-256-GCM encryption",
+    "GEDCOM import",
+    "Multi-format export",
+    "Real-time collaboration",
+    "Mobile responsive"
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Therapists, Social Workers, Genetic Counselors, Nursing Students, Psychology Students, Medical Professionals"
+  },
+  "sameAs": [
+    "https://github.com/williamhsu/genogram-resources",
+    "https://gist.github.com/williamhsu/9142752cb4ee1f76ac3021f94eb090b3"
+  ]
+}
